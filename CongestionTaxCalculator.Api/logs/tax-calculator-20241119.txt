@@ -1,0 +1,3 @@
+2024-11-19 12:55:00.318 +01:00 [INF] Database migration completed
+2024-11-19 13:39:12.115 +01:00 [INF] Database migration completed
+2024-11-19 13:41:32.331 +01:00 [INF] Database migration completed
